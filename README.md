@@ -1,6 +1,6 @@
 # BST
 
-📄 [View Full Report (PDF)](AllSkletone_BTS.pdf)
+📄 [View Full Report (PDF)](AllSkleton_BTS.pdf)
 
 This repository contains all the source code and documentation for the **BTS Project**. The project focuses on implementing [briefly describe the topic or system implemented, e.g., "a Binary Tree Search system", "a student information portal", etc.].
 
