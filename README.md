@@ -1,6 +1,6 @@
 # BST
 
-📄 [View Full Report (PDF)](AllSkeleton_BTS.pdf)
+📄 [View Full Report (PDF)](Doc/AllSkeleton_BTS.pdf)
 
 <img align= "center" str= "https://github.com/chevil-dev/AllSkeleton_BST/images/00.png" width= "300">
 
