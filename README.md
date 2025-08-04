@@ -2,7 +2,7 @@
 
 📄 [View Full Report (PDF)](Doc/AllSkeleton_BTS.pdf)
 
-<img align= "center" src= "https://github.com/chevil-dev/AllSkeleton_BST/images/00.png" width= "300">
+<img align= "center" src= "images/00.png" width= "450">
 
 # Analysis et Algorithmus Generandi Arbores Quaestorias Binarias (BST)
 
@@ -74,7 +74,7 @@ def allSkeleton(start: int, end: int) -> list[Node]:
 
 ## 📐 Demonstratio Mathematica: Numeri Catalani
 
-<img align= "center" src= "https://github.com/chevil-dev/AllSkeleton_BST/images/01.png" width= "300">
+<img align= "center" src= "images/01.png" width= "450">
 
 Numerus totalis BST, qui cum `n` nodis construi potest, per numeros Catalanos computatur. Infra, demonstratio in imaginibus praebita summatim exponitur.
 
